@@ -412,7 +412,7 @@ const experience = {
           title: "MERN stack Developer",
           company: "Silicontech Nepal Pvt. Ltd.",
           company_url: "http://silicontechnepal.com.np",
-          logo_path: "silicon.jpg",
+          logo_path: "silicon.png",
           duration: "Dec 2020 - Present",
           location: "Koteshwor, Kathmandu",
           description:
