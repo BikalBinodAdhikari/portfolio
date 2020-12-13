@@ -409,14 +409,14 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Quality Assurance Intern",
-          company: "Shangrila Microsystem",
-          company_url: "http://shangrilagroup.com.np/",
-          logo_path: "Shangrila.jpg",
+          title: "MERN stack Developer",
+          company: "Silicontech Nepal Pvt. Ltd.",
+          company_url: "http://silicontechnepal.com.np",
+          logo_path: "silicon.jpg",
           duration: "Dec 2020 - Present",
-          location: "Anamnagar, Kathmandu",
+          location: "Koteshwor, Kathmandu",
           description:
-            "I'm currently a Quality Assurance intern in Shangril Microsystem",
+            "I'm currently a MERN stack Developer intern in Silicontech Nepal Pvt. Ltd.",
           color: "#ee3c26",
         },
       ],
