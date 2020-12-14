@@ -61,47 +61,6 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-      ],
-    },
-    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -140,6 +99,13 @@ const skills = {
           },
         },
         {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "vscode-icons:file-type-mongo",
+          style: {
+            color: "#02569B",
+          },
+        },
+        {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
           style: {
@@ -154,31 +120,17 @@ const skills = {
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Laravel",
+          fontAwesomeClassname: "logos-laravel",
           style: {
             color: "#CB3837",
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
+          skillName: "PHP",
+          fontAwesomeClassname: "logos-php",
           style: {
             color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
           },
         },
       ],
@@ -202,17 +154,17 @@ const skills = {
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Digital Ocean",
+          fontAwesomeClassname: "logos-digital-ocean",
           style: {
             color: "#FF9900",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
-            color: "#0089D6",
+            color: "#FF9900",
           },
         },
         {
@@ -263,6 +215,13 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "cib-adobe-photoshop",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
           skillName: "Adobe XD",
           fontAwesomeClassname: "simple-icons:adobexd",
           style: {
@@ -288,6 +247,54 @@ const skills = {
           fontAwesomeClassname: "simple-icons:inkscape",
           style: {
             color: "#000000",
+          },
+        },
+      ],
+    },
+    {
+      title: "Content Management System",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly SEO friendly themes for a service",
+        "⚡ Experience of working with few customers worldwide",
+        "⚡ Changing the theme upon the requirements of the client",
+      ],
+      softwareSkills: [
+        {
+          skillName: "WordPress",
+          fontAwesomeClassname: "dashicons-wordpress",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Drupal",
+          fontAwesomeClassname: "fa-brands:drupal",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Joomla",
+          fontAwesomeClassname: "logos-joomla",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Magento",
+          fontAwesomeClassname: "logos-magento",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "PrestaShop",
+          fontAwesomeClassname: "logos-prestashop",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
       ],
@@ -457,7 +464,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Bikal Binod Adhikari.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, iOS Development, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
