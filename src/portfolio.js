@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Bikal Binod Adhikari",
   nickname: "parad0x",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Seeking for more knowledge with the following skills: Full stack Development-MERN (MongoDB, Express, React, Node), SQL & iOS Application Development.",
   resumeLink:
     "https://drive.google.com/file/d/1ekwmgLUpwZDPjf1T4RQ9bYZeNHlrhjtg/view?usp=sharing",
   portfolio_repository: "https://github.com/BikalBinodAdhikari",
@@ -187,6 +187,74 @@ const skills = {
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+      ],
+      softwareSkills: [
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: {
+            color: "#4285F4",
+          },
+        },
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
+          style: {
+            color: "#0089D6",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
+          style: {
+            color: "#326CE5",
+          },
+        },
+      ],
+    },
+    {
+      title: "iOS Application Development",
+      fileName: "iosDevImg.svg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
@@ -434,7 +502,7 @@ const experience = {
           duration: "June 2019 - April 2020",
           location: "",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "International Youth Conference on Science, Technology and Innovation iwas a platform where many innovative ideas were explored. People around the globe came and participated in this event. I got opportunity to be a volunteer in this event.",
           color: "#4285F4",
         },
       ],
