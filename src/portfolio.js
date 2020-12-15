@@ -204,53 +204,51 @@ const skills = {
         },
       ],
     },
-
     {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
+      title: "iOS Application Development",
+      fileName: "IosDevImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Building resposive and blazingly fast iOS Application using UIKit and SwiftUI",
+        "⚡ Developing website using vapor for server side development",
+        "⚡ Submitting developed application to AppStore",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe Photoshop",
-          fontAwesomeClassname: "cib-adobe-photoshop",
+          skillName: "Swift",
+          fontAwesomeClassname: "vscode-icons:file-type-swift",
           style: {
-            color: "#F24E1E",
+            color: "#E34F26",
           },
         },
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "iOS",
+          fontAwesomeClassname: "logos-ios",
           style: {
-            color: "#FF2BC2",
+            color: "#1572B6",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "AppStore",
+          fontAwesomeClassname: "cib-app-store-ios",
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "logos-firebase",
           style: {
-            color: "#F24E1E",
+            backgroundColor: "transparent",
+            color: "#F7DF1E",
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "MongoDB",
+          fontAwesomeClassname: "vscode-icons:file-type-mongo",
           style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
+            color: "#02569B",
           },
         },
       ],
     },
+
     {
       title: "Content Management System",
       fileName: "DataScienceImg",
@@ -295,6 +293,52 @@ const skills = {
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+      ],
+    },
+    {
+      title: "UI/UX Design",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Designing highly attractive user interface for mobile and web applications",
+        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Creating the flow of application functionalities to optimize user experience",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "cib-adobe-photoshop",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe Illustrator",
+          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          style: {
+            color: "#FF7C00",
+          },
+        },
+        {
+          skillName: "Inkscape",
+          fontAwesomeClassname: "simple-icons:inkscape",
+          style: {
+            color: "#000000",
           },
         },
       ],
