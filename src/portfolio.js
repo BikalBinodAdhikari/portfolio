@@ -406,7 +406,7 @@ const experience = {
   subtitle: "Work, Internship and Volunteership",
   description:
     "I have worked with many evolving startups as IT Officer and junior Developer, Designer and Lead Software Engineer. I have also worked with some well established companies mostly as Fullstack Developer.",
-  header_image_path: "experience.svg",
+  header_image_path: "undraw_project_completed_w0oq.svg",
   sections: [
     {
       title: "Work",

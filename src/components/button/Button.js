@@ -23,7 +23,7 @@ export default function Button({ text, className, href, newTab, theme }) {
         style={{
           color: theme.body,
           backgroundColor: theme.text,
-          border: `solid 1px ${theme.text}`,
+          border: `solid 10px ${theme.text}`,
         }}
         onMouseEnter={(event) => onMouseEnter(event, theme.text, theme.body)}
         onMouseOut={(event) => onMouseOut(event, theme.body, theme.text)}

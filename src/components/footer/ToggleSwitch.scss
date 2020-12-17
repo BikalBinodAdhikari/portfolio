@@ -14,7 +14,7 @@ $breakpoint-tablet: 768px;
   width: 60px;
   height: 30px;
   background: grey;
-  border-radius: 80px;
+  border-radius: 20px;
   position: relative;
   transition: background-color 0.2s;
   @media screen and (max-width: $breakpoint-tablet) {
