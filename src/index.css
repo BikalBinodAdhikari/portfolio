@@ -1,9 +1,8 @@
 @font-face {
-  font-family: "Arbutus";
+  font-family: "Agustina";
   font-style: normal;
   font-weight: normal;
-  src: local("Arbutus"),
-    url("./assests/fonts/arbutus-v10-latin-regular.woff") format("woff");
+  src: local("Agustina"), url("./assests/fonts/Agustina.woff") format("woff");
 }
 @font-face {
   font-family: "Montserrat";
